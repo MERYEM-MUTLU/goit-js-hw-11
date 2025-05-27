@@ -9,11 +9,16 @@ html {
 
 .hidden {
   display: none;
-}
-#loader {
   text-align: center;
   font-size: 20px;
   padding: 12px;
+}
+
+#loader {
+  text-align: center;
+  font-size: 20px;
+  width: 200px;
+  padding: 1150px;
 }
 
 #search-button {
